@@ -8,7 +8,7 @@ https://github.com/kurehaakika/Sample.git
 ・お好み焼きレシピ  
  [oknomi.text](okonomi.text)
 
-###  リポートリポジトリ
+##  リポートリポジトリ
 
 ・[README.md](README.md)を作ってみる  
 ・マークダウンを覚える

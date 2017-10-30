@@ -6,7 +6,7 @@ https://github.com/kurehaakika/Sample.git
 ## ローカルリポジトリ
 
 ・お好み焼きレシピ  
-[oknomi.text](okonomi.text)
+ [oknomi.text](okonomi.text)
 
 ###  リポートリポジトリ
 
